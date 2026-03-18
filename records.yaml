@@ -1,0 +1,84 @@
+# records.yaml
+journals:
+  - control_number:       jnl-2024-001
+    title:                Journal of Applied Sciences
+    subtitle:             research and innovation
+    abbreviated_title:    J. Appl. Sci.
+    issn:
+      - value: 1234-5678
+        type:  online
+    publisher:            Academic Press
+    place_of_publication: New York
+    start_year:           "2010"
+    end_year:             ""
+    first_issue:          "Vol. 1, no. 1 (Jan. 2010)-"
+    frequency:            Quarterly
+    frequency_code:       q
+    language_code:        eng
+    geographic_area_code: n-us---
+    subjects:
+      - Applied sciences -- Periodicals
+      - Research -- Periodicals
+    is_online:            true
+    url:                  https://example.com/journal-of-applied-sciences
+
+volumes:
+  - control_number:       vol-2024-005
+    title:                Journal of Applied Sciences
+    subtitle:             special issue on climate modelling
+    issn:
+      - value: 1234-5678
+        type:  online
+    publisher:            Academic Press
+    place_of_publication: New York
+    volume:               5
+    issue_range:          1-4
+    year:                 "2015"
+    date_range:           Jan.-Dec. 2015
+    language_code:        eng
+    editors:
+      - "Brown, Margaret E."
+      - "Kim, Soo-Jin"
+    subjects:
+      - Applied sciences -- Periodicals
+      - Climate modelling -- Research
+    is_online:            true
+    url:                  https://example.com/journal-of-applied-sciences/vol5
+    notes:
+      - Special issue on climate modelling
+    host_journal:
+      title:              Journal of Applied Sciences
+      issn:               1234-5678
+      control_number:     jnl-2024-001
+
+articles:
+  - control_number:       art-2024-001
+    title:                Advances in thermal imaging for structural analysis
+    subtitle:             a comparative study
+    author:               "Smith, Jane A."
+    additional_authors:
+      - "Patel, Rohan K."
+      - "Nguyen, Linh T."
+    year:                 "2015"
+    language_code:        eng
+    doi:                  10.1234/jas.2015.045
+    abstract: >
+      This paper examines recent advances in thermal imaging techniques
+      applied to structural analysis.
+    subjects:
+      - Thermal imaging -- Research
+      - Structural analysis -- Methodology
+    is_online:            true
+    url:                  https://example.com/articles/thermal-imaging-2015
+    notes:
+      - Includes bibliographical references (p. 65-67)
+    host_journal:
+      title:              Journal of Applied Sciences
+      issn:               1234-5678
+      publisher:          Academic Press
+      volume:             5
+      issue:              2
+      season:             Spring
+      year:               "2015"
+      pages:              45-67
+      control_number:     jnl-2024-001

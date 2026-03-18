@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2026-03-17T11:53:11Z</responseDate>
+    <request metadata_prefix="marc21" identifier="oai:hathitrust.org:000932996" verb="GetRecord">https://oai.hathitrust.org/</request>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>oai:hathitrust.org:000932996</identifier>
+                <datestamp>2025-04-15T00:00:00Z</datestamp>
+                <setSpec>hathitrust</setSpec>
+            </header>
+            <metadata>
+                <record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+                    <leader>02415cas a2200553 a 4500</leader>
+                    <controlfield tag="005">20220223000000.0</controlfield>
+                    <datafield tag="010" ind1=" " ind2=" ">
+                        <subfield code="a">93661979</subfield>
+                    </datafield>
+                    <datafield tag="022" ind1="0" ind2=" ">
+                        <subfield code="a">1053-637X</subfield>
+                    </datafield>
+                    <datafield tag="035" ind1=" " ind2=" ">
+                        <subfield code="a">sdr-ucsd.991007339269706535</subfield>
+                    </datafield>
+                    <datafield tag="035" ind1=" " ind2=" ">
+                        <subfield code="a">(EXLNZ-01UCS_NETWORK)9912423320006531</subfield>
+                    </datafield>
+                    <datafield tag="035" ind1=" " ind2=" ">
+                        <subfield code="a">(OCoLC)10480343</subfield>
+                    </datafield>
+                    <datafield tag="035" ind1=" " ind2=" ">
+                        <subfield code="a">(CU-S)b32270586-01ucs_sdi</subfield>
+                    </datafield>
+                    <datafield tag="050" ind1="0" ind2="0">
+                        <subfield code="a">QL401</subfield>
+                        <subfield code="b">.W35</subfield>
+                    </datafield>
+                    <datafield tag="082" ind1="1" ind2="0">
+                        <subfield code="a">594/.005</subfield>
+                    </datafield>
+                    <datafield tag="245" ind1="0" ind2="0">
+                        <subfield code="a">Walkerana :</subfield>
+                        <subfield code="b">transactions of the POETS Society</subfield>
+                    </datafield>
+                    <datafield tag="260" ind1="3" ind2=" ">
+                        <subfield code="a">[O'Fallon, MO] :</subfield>
+                        <subfield code="b">Freshwater Mollusk Conservation Society</subfield>
+                    </datafield>
+                    <datafield tag="260" ind1=" " ind2=" ">
+                        <subfield code="a">Ann Arbor, Mich. :</subfield>
+                        <subfield code="b">Society for Experimental and Descriptive Malacology</subfield>
+                    </datafield>
+                    <datafield tag="300" ind1=" " ind2=" ">
+                        <subfield code="a">v. :</subfield>
+                    </datafield>
+                    <datafield tag="650" ind1=" " ind2="7">
+                        <subfield code="a">Mollusks.</subfield>
+                    </datafield>
+                    <datafield tag="650" ind1=" " ind2="0">
+                        <subfield code="a">Mollusks</subfield>
+                    </datafield>
+                    <datafield tag="856" ind1="4" ind2="1">
+                        <subfield code="u">http://hdl.handle.net/2027/uc1.31822008784241</subfield>
+                        <subfield code="z">v.7 no.17-18</subfield>
+                        <subfield code="x">eContent</subfield>
+                        <subfield code="r">und</subfield>
+                    </datafield>
+                    <datafield tag="856" ind1="4" ind2="1">
+                        <subfield code="u">http://hdl.handle.net/2027/uc1.31822009791625</subfield>
+                        <subfield code="z">v.5 no.13-14</subfield>
+                        <subfield code="x">eContent</subfield>
+                        <subfield code="r">und</subfield>
+                    </datafield>
+                    <datafield tag="856" ind1="4" ind2="1">
+                        <subfield code="u">http://hdl.handle.net/2027/uc1.31822009791633</subfield>
+                        <subfield code="z">v.6 no.15-16</subfield>
+                        <subfield code="x">eContent</subfield>
+                        <subfield code="r">und</subfield>
+                    </datafield>
+                    <datafield tag="856" ind1="4" ind2="1">
+                        <subfield code="u">http://hdl.handle.net/2027/uc1.31822009791658</subfield>
+                        <subfield code="z">v.2 no.6-8</subfield>
+                        <subfield code="x">eContent</subfield>
+                        <subfield code="r">und</subfield>
+                    </datafield>
+                    <datafield tag="856" ind1="4" ind2="1">
+                        <subfield code="u">http://hdl.handle.net/2027/uc1.31822009791666</subfield>
+                        <subfield code="z">v.3 no.9-10</subfield>
+                        <subfield code="x">eContent</subfield>
+                        <subfield code="r">und</subfield>
+                    </datafield>
+                    <datafield tag="856" ind1="4" ind2="1">
+                        <subfield code="u">http://hdl.handle.net/2027/uc1.31822009791674</subfield>
+                        <subfield code="z">v.4 no.11-12</subfield>
+                        <subfield code="x">eContent</subfield>
+                        <subfield code="r">und</subfield>
+                    </datafield>
+                    <datafield tag="856" ind1="4" ind2="1">
+                        <subfield code="u">http://hdl.handle.net/2027/uc1.31822023470578</subfield>
+                        <subfield code="z">v.1 no.1-5</subfield>
+                        <subfield code="x">eContent</subfield>
+                        <subfield code="r">und</subfield>
+                    </datafield>
+                </record>
+            </metadata>
+        </record>
+    </GetRecord>
+</OAI-PMH>

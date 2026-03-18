@@ -1,0 +1,20 @@
+volumes:
+  - control_number:       walkerana-1053637x-9-22
+    title:                Walkerana
+    subtitle:             transactions of the POETS Society
+    issn:
+      - value: 2472-2901
+        type:  online
+      - value: 1053-637X
+        type:  print
+    volume:               9
+    issue_range:          22
+    year:                 "1997"
+    date_range:           1997-1998
+    language_code:        eng
+    is_online:            true
+    url:                  https://archive.org/details/walkerana-1053637x-9-22
+    host_journal:
+      title:              Walkerana
+      issn:               1053-637X
+      control_number:     654276729
